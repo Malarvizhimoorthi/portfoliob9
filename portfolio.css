@@ -1,0 +1,132 @@
+.header{
+    margin: -10px;
+}
+.header h2{
+    font-family: sans-serif;
+    font-weight: bold;
+    color:#822585 ;
+    padding-left: 100px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -60px;
+    padding-left: 400px ;
+    padding-right: 100px ; 
+    float: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding right: 50px ;
+    padding-left: 40px;
+}
+nav ul li a{
+    color:#822585 ;
+}
+section {
+    border:1px solid white;
+    border-top: 45px;
+    border-left: 12px;
+    border-right: 12px;
+    background-image:  url(https://www.2016arita.jp/cdn/shop/files/SD003.jpg?v=1690035379&width=630);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.content {
+    height: 460px;
+    width: 85%;
+    padding-left: 100px;
+    padding-top: 200px;
+    line-height: 2px;
+}
+.content p {
+    line-height: 17px;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-top: -10px;
+}
+.boxicons{
+   display:flex;
+   width: 100%;
+   margin-top:50px
+ 
+}
+.boxicons a {
+    border-style:  solid ;
+    border-radius: 50%;
+    border-color:rgb(33, 240, 240);
+    border-width: 2px;
+    
+}
+.boxicons a i{
+    font-size: 18px;
+    padding: 8px;
+    color: aqua;
+}
+.footercontainer input
+      {
+         background-color: rgba(12, 201, 222, 0.942);
+         color: rgba(8, 8, 8, 0.96);
+         border-color: rgba(43, 225, 228, 0.69);
+         padding-left: 40px;
+         padding: 4px;
+         font-weight: bold;
+         text-align: center ;
+         padding-top: 5px;
+         margin-top: 30px;
+      }
+
+
+    
+      header {
+        background-color: rgb(110, 108, 108);
+        height: 100px;
+        width: 100%;
+    }
+    img{
+        float:left;
+        height: 300px;
+        width: 50%px;
+        margin-left: 150px;
+    }
+    .container{
+        margin-left: 350px;
+        margin-top: 150px;
+        margin-right: 150px;
+    }
+    .container h1{
+        font-size: 40px;
+        font-family:'Times New Roman';
+        font-weight: bolder;
+    }
+    .container  p
+    {
+    font-size: 20px;
+    font-family: 'Segoe UI';
+    font-weight: 15px;
+    font-style: inherit;
+    }
+    .btn{
+        background-color: brown;
+        font-size: 15px;
+        color: antiquewhite;
+        border-radius: 35%;
+        padding: 8px;
+        margin-left: 370px;
+    }
+
+    
+
+
+
+
+
+
+
+
+   
